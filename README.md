@@ -92,6 +92,16 @@ These steps provide a clear and organized plan for developing the user access ve
 <img src="https://i.imgur.com/I4qdwSx.png" height="80%" width="80%"/>
 <br />
 <br />
+<h2>Review</h2>
+<b>Python:</b> The primary programming language used for writing the code to manage user-device relationships and implement the security algorithm.
+
+<b>Lists:</b> Lists are a fundamental data structure in Python used to store collections of items. In this project, they are employed to keep track of approved usernames and their corresponding devices.
+
+<b>Conditional Statements:</b> These are used to create decision-making logic, like checking if a user is approved or whether a username matches with a device ID.
+
+<b>Functions:</b> A key concept in Python, functions are used to encapsulate code and automate the login process, making the algorithm reusable and organized.
+
+<b>Overall, this project leverages Python's simplicity and versatility along with basic data structures and control structures to create an efficient security algorithm.</b>
 
 
 <!--
